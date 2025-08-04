@@ -14,7 +14,7 @@ cls
 echo *** TIC-TAC-TOE ***
 echo.
 
-:: Show board with empty cells
+:: Show board with empty cells (all)
 echo !cell1! ^| !cell2! ^| !cell3!
 echo --+---+--
 echo !cell4! ^| !cell5! ^| !cell6!
